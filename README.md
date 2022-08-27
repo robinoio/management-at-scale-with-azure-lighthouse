@@ -1,1 +1,1 @@
-# management-at-scale-with-azure-lighthouse
+# Management at scale with Azure Lighthouse
